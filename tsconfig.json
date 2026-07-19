@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noEmitOnError": true,
+    "target": "ES2022",
+    "module": "CommonJS"
+  },
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules"]
+}
